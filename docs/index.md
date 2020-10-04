@@ -5,7 +5,7 @@ Use Terraform to manage Sensu resources.
 ### Resources and Data Sources
 
 * A list of supported resources can be found [here](resources).
-* A list of supported data sources can be found [here](data_sources).
+* A list of supported data sources can be found [here](data-sources).
 
 ## Basic Example
 
